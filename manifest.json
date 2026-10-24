@@ -1,0 +1,21 @@
+{
+  "skill": "xhs-marker-cover",
+  "files": {
+    "README.md": {
+      "bytes": 2867,
+      "sha256": "08ef36048f3348f9e184be3b82e433a48b82628bf1bb5c78d5cf8df71b6faa61"
+    },
+    "SKILL.md": {
+      "bytes": 3390,
+      "sha256": "09ca4e093b797870ba0ca8dcc59e63560d26d360c357030944f0d87811fb75c9"
+    },
+    "agents/openai.yaml": {
+      "bytes": 226,
+      "sha256": "9d35564e00be6a17295ce70bf06e060b7e7e628db0887cd2c1ceed817845f936"
+    },
+    "assets/approved-cover.png": {
+      "bytes": 1419662,
+      "sha256": "a475d345d4c862852c09fe3e2f4682dd3a5834b55c48c7e3ccd1a1de56c6ee55"
+    }
+  }
+}
